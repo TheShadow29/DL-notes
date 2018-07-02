@@ -2,6 +2,8 @@
 Deep Learning notebooks implementing some research papers
 
 ### Notebooks [Including To-Do]
+- [ ] SSD
+- [ ] YoLo
 - [ ] Wgan
 - [ ] Spen
 - [ ] Cycle-WganGP
