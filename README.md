@@ -1,7 +1,7 @@
 # DL-notes
 Deep Learning notebooks implementing some research papers
 
-### Notebooks [Including To-Do]
+### Notebooks: Paper Implementation [Including To-Do]
 - [ ] SSD
 - [ ] YoLo
 - [ ] Wgan
@@ -10,3 +10,10 @@ Deep Learning notebooks implementing some research papers
 - [ ] Ind-RNN
 - [ ] ChoiceNet
 - [ ] Conditional GAN
+
+### Notebooks: Simple Experiments and Simple Idea [Including To-Do]
+- [ ] Print CVPR titles
+- Experiments with different Libraries:
+  - [ ] Visdom
+  - [ ] SLM-Lab
+  - [ ] wfdb
