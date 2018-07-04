@@ -10,6 +10,7 @@ Deep Learning notebooks implementing some research papers
 - [ ] Ind-RNN
 - [ ] ChoiceNet
 - [ ] Conditional GAN
+- [ ] Relativistic GAN
 
 ### Notebooks: Simple Experiments and Simple Idea [Including To-Do]
 - [ ] Print CVPR titles
